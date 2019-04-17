@@ -1,6 +1,10 @@
 # traveloka
+Screenshots 
 
-Screenshots
+![alt text](https://raw.githubusercontent.com/pravodev/flutter-traveloka-ui-clone/master/screenshots/traveloka1.png "Logo Title Text 1")
+
+Download Build Apk. [app-release.apk](https://github.com/pravodev/flutter-traveloka-ui-clone/raw/master/app-release.apk)
+
 A new Flutter project.
 
 ## Getting Started
